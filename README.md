@@ -1,0 +1,5 @@
+## MCA Analysis and Comparison to Docker and Guix Results
+
+* [MCA_Analysis.ipynb](https://github.com/InesGP/reprovip_acm_paper/blob/main/MCA_Analysis.ipynb) contains the code to generate the figures in the ACM Rep 2024 paper under the section "Boxplots for Magnitude" and "Correlation Plots". The beginning of the notebook is primarily exploratory analysis that is not used in the paper
+* [Sigmap_visualization.ipynb](https://github.com/InesGP/reprovip_acm_paper/blob/main/Sigmap_visualization.ipynb) visualizes all OASIS subjects sigmaps for Fuzzy MCA and a concatenation of Docker and Guix. To see it, the notebook must be downloaded
+* [calc.py](https://github.com/InesGP/reprovip_acm_paper/blob/main/calc.py) is a script that calculates the significant digits within the linearly registered images and [make_gifs.py](https://github.com/InesGP/reprovip_acm_paper/blob/main/make_gifs.py) is a script that will make a gif out of different executions of a file in order to observe the variability in the images
